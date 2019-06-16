@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<premis_nobel>
+   <persones>
+      <persona sexe="dona">
+        <nom>Marie Curie</nom>
+        <naixement pais="Polònia" data="1867"/>
+      </persona>
+      <persona sexe="home">
+        <nom>Niels Bohr</nom>
+        <naixement pais="Dinamarca" data="1885"/>
+      </persona>
+      <persona sexe="home">
+        <nom>Fritz Haber</nom>
+        <naixement pais="Alemanya" data="1868"/>
+      </persona>
+      <persona sexe="home">
+        <nom>James Chadwick</nom>
+        <naixement pais="Regne Unit" data="1891"/>
+      </persona>
+    </persones>
+    
+    <premis>
+      <premi categoria="física">
+        <any>1903</any>
+        <premiat>Marie Curie</premiat>
+        <motiu>estudi radiactivitat</motiu>
+      </premi>
+      <premi categoria="química">
+        <any>1911</any>
+        <premiat>Marie Curie</premiat>
+        <motiu>descobriment del radi i el poloni</motiu>
+      </premi>
+      <premi categoria="química">
+        <any>1918</any>
+        <premiat>Fritz Haber</premiat>
+	      <motiu>síntesi de l'amoníac</motiu>
+      </premi>
+      <premi categoria="física">
+        <any>1935</any>
+        <premiat>James Chadwick</premiat>
+        <motiu>descobriment del neutró</motiu>
+      </premi>
+      <premi categoria="física">
+        <any>1922</any>
+        <premiat>Niels Bohr</premiat>
+	      <motiu>estudi de l'estructura atòmica</motiu>
+      </premi>
+    </premis>
+</premis_nobel>
